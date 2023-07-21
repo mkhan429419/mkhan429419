@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 Maheen Akhtar Khan, currently a student at NUST :)
+- 🌱 I’m currently learning web development
+- 😄 Pronouns: she/her
+
 <!--
 **mkhan429419/mkhan429419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
