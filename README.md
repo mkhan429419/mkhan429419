@@ -1,16 +1,16 @@
 ### Hi, I’m Maheen 👋
 
-I’m a Software Engineer with hands-on experience building **production-grade full-stack and AI-powered systems** used by thousands of real users.
+I’m a Software Engineer with hands-on experience building **production-grade full-stack systems** used by thousands of real users.
 
 - 💻 Software Engineer working with **Node.js, Next.js, React, TypeScript, AWS**
-- 🤖 Experienced in **LLMs, RAG pipelines, prompt engineering, and AI inference in production**
+- 🤖 Experienced in **LLMs, prompt engineering, and AI inference in production**
 - 🚀 Built and operated systems serving **5,000+ users across 500+ US-based auto dealerships**
 - 🧠 Strong focus on **backend reliability, performance optimization, and scalable AI workflows**
 - 🎓 Final-year Software Engineering student at **NUST** (Graduating 2026)
 
 **Tech I work with:**  
 `JavaScript` · `TypeScript` · `Python` · `Node.js` · `React` · `Next.js` · `AWS` · `MongoDB` · `PostgreSQL` ·  
-`LLMs` · `RAG` · `Vector Databases` · `REST APIs` · `CI/CD`
+`LLMs` · `REST APIs` · `CI/CD`
 
 📫 Reach me at:  
 - LinkedIn: https://linkedin.com/in/maheenakhtarkhan  
