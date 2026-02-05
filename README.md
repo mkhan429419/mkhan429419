@@ -13,7 +13,7 @@ I’m a Software Engineer with hands-on experience building **production-grade f
 `LLMs` · `REST APIs` · `CI/CD`
 
 📫 Reach me at:  
-- LinkedIn: https://linkedin.com/in/maheenakhtarkhan  
+- LinkedIn: https://linkedin.com/in/maheen-akhtar-khan-377082267
 - Portfolio: https://maheenakhtarkhan.com  
 
 Always interested in building impactful systems and collaborating on applied AI projects.
